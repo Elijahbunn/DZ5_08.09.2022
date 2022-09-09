@@ -48,26 +48,5 @@ y++;
 }
 }
 Console.WriteLine($"Current coordinat: ({array0[0,0]},{array0[0, 1]}) ({array0[0, 2]},{array0[0, 3]}) ({array0[1, 0]},{array0[1, 1]}) ({array0[1, 2]},{array0[1, 3]})");
-// Console.Write("X-coordinat of 1 pic: ");
-// int x1 = int.Parse(Console.ReadLine() ?? "0");
-// Console.Write("Y-coordinat of 1 pic: ");
-// int y1 = int.Parse(Console.ReadLine() ?? "0");
-// Console.Write("X-coordinat of 2 pic: ");
-// int x2 = int.Parse(Console.ReadLine() ?? "0");
-// Console.Write("Y-coordinat of 2 pic: ");
-// int y2 = int.Parse(Console.ReadLine() ?? "0");
-// Console.Write("X-coordinat of 3 pic: ");
-// int x3 = int.Parse(Console.ReadLine() ?? "0");
-// Console.Write("Y-coordinat of 3 pic: ");
-// int y3 = int.Parse(Console.ReadLine() ?? "0");
-// Console.Write("X-coordinat of 4 pic: ");
-// int x4 = int.Parse(Console.ReadLine() ?? "0");
-// Console.Write("Y-coordinat of 4 pic: ");
-// int y4 = int.Parse(Console.ReadLine() ?? "0");
 
-//Console.WriteLine($"Current coordinat: ({x1},{y1}) ({x2},{y2}) ({x3},{y3}) ({x4},{y4}) ");
-//int[,] array0 = new int[,] {{x1, y1}, {x2, y2}, {x3, y3}, {x4, y4}};
-
-//FillArray(array0, 1, 11);
-//PrintArray(array0);
 PrintResult(array0);
